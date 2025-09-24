@@ -31,5 +31,5 @@ Project ini dibuat dengan:
 ---
 ## 📸 Preview
 
-![Preview]("assets/images/preview.png)
+![Preview]("assets/images/preview.png")
 
