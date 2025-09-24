@@ -31,5 +31,5 @@ Project ini dibuat dengan:
 ---
 ## 📸 Preview
 
-![Preview]("assets/images/preview.png")
+![Preview](flutter_my_profile_app/assets/images/preview.png)
 
