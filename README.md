@@ -1,16 +1,35 @@
-# flutter_application_1
+# 📱 Flutter Profile App — Chaelse Vania Patulak Dengen
 
-A new Flutter project.
+Aplikasi Flutter sederhana untuk menampilkan **profile card** dengan desain modern menggunakan:
+- 🎨 Gradient header
+- 🔲 Glassmorphism card
+- 🔗 Tombol sosial (Instagram & GitHub)
+- 👤 Foto profil (avatar)
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Fitur Utama
+- Menampilkan informasi profil:
+  - **Nama**: Chaelse Vania Patulak Dengen  
+  - **NIM**: 2309106003  
+  - **Hobi**: Bermain musik  
+  - **Instagram**: [@chaelsedengen](https://instagram.com/chaelsedengen)  
+  - **GitHub**: [cecel](https://github.com/cecel)  
+- Avatar berbasis **foto** (misalnya `assets/images/stitch.jpg`)
+- UI modern dengan **Google Fonts** & **Font Awesome Icons**
+- Tombol interaktif membuka link sosial via `url_launcher`
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Teknologi & Package
+Project ini dibuat dengan:
+- [Flutter](https://flutter.dev/) 3.x
+- [google_fonts](https://pub.dev/packages/google_fonts) → untuk custom font
+- [font_awesome_flutter](https://pub.dev/packages/font_awesome_flutter) → untuk icon sosial
+- [url_launcher](https://pub.dev/packages/url_launcher) → untuk membuka link eksternal
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+## 📸 Preview
+
+![Preview]("assets/images/preview.png)
+
